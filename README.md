@@ -13,7 +13,7 @@ Path planning using A* algorithm and implementation on turtlebot waffle in Gazeb
 ### Setup
 Clone the repo
 ```
-
+https://github.com/Buvan0702/RMP-Project
 ```
 Create a workspace
 ```
